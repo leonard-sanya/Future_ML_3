@@ -18,10 +18,8 @@ And finally run:
 The script will train a Linear Regression model on the dataset and output prediction results. The trained model will also save images in the output_images folder.
 
 ## Results
-<img src="https://github.com/leonard-sanya/Future_ML_3/output_images/regression_line.png" width="720" height="480"/> -->
+<img src="https://github.com/leonard-sanya/Future_ML_3/blob/main/output_images/regression_line.png" width="640" height="480"/>
 
-
-<!-- <img src="/Users/leonard/Desktop/Future Interns/Project 3/Future_ML_3/output_images/regression_line.png" width="720" height="480"/> -->
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md). Please read the License file for more information.
